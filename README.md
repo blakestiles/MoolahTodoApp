@@ -101,18 +101,15 @@ Welcome to the **Moolah Todo List App**, a dynamic full-stack to-do management s
 
 
 ## 🛠️ How to Run
+ 1. Frontend (Vue.js)
 
-### 1. Frontend (Vue.js)
-```bash
 cd frontend
 npm install
 npm run dev
 
 
 2. Backend (.NET Core API)
-bash
-Copy
-Edit
+
 cd backend
 dotnet restore
 dotnet ef database update
