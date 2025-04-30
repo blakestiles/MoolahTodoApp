@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S5oM1bKoLisPYYDO0xVZxS4pw7RM15LtFYp03ylYkXM=",
+  "Source": "MoolahTodoAPI",
+  "BasePath": "_content/MoolahTodoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

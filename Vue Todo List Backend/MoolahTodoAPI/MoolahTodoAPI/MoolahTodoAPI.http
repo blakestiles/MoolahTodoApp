@@ -1,0 +1,6 @@
+@MoolahTodoAPI_HostAddress = http://localhost:5263
+
+GET {{MoolahTodoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
